@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+tr.raw1{
+    text-align: center;
+    background-color: rgba(208, 215, 255, 0.659);
+    color: rgb(0, 0, 0);
+}
+tr.raw2{
+    text-align: center;
+    background-color: rgba(152, 241, 253, 0.652);
+    color:rgb(0, 0, 0);
+}
+tr.raw3{
+    text-align: center;
+    background-color:rgba(240, 179, 250, 0.629) ;
+    color: rgb(0, 0, 0);
+}
+div.link:hover{
+    background-color: blueviolet;
+}
